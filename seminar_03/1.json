@@ -1,0 +1,18 @@
+{
+	"item": {
+		"id": 123179,
+		"title": "Пост третий просто пост",
+		"description": "%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%",
+		"content": "\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\",
+		"authorId": 40134,
+		"mainImage": {
+			"id": null,
+			"cdnUrl": "http://test-stand.gb.ru/files/public/image/c16252809d35cb9acb80cb84c1a822c6.jpg"
+		},
+		"updatedAt": "2024-09-15T11:39:20+00:00",
+		"createdAt": "2024-09-15T11:39:20+00:00",
+		"labels": [],
+		"delayPublishTo": null,
+		"draft": false
+	}
+}

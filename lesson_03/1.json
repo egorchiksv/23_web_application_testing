@@ -1,0 +1,155 @@
+{
+	"data": {
+		"id": "5a26d117f202635a003a0502",
+		"type": "person",
+		"linked_id": "5a26d117f202635a003a0502",
+		"name": "\u0415\u0433\u043e\u0440 \u0421.",
+		"image": {
+			"id": "5a70857d6065ba331e0ef66c",
+			"num": 1,
+			"url": "https:\/\/cache3.youla.io\/files\/images\/orig\/5a\/70\/5a70857d6065ba331e0ef66c.jpg"
+		},
+		"phone": "79069506557",
+		"social": [{
+			"type": "vk",
+			"uid": "428666251"
+		}],
+		"isOnline": true,
+		"onlineText": "\u0412 \u0441\u0435\u0442\u0438",
+		"online_text_detailed": "\u0412 \u0441\u0435\u0442\u0438",
+		"settings": {
+			"display_chat": true,
+			"locale": 0,
+			"vk_chat_messages_enabled": false,
+			"location": {
+				"description": "\u0422\u043e\u043c\u0441\u043a",
+				"city": "576d0619d53f3d80945f9805",
+				"latitude": 56.502596,
+				"longitude": 85.040368
+			},
+			"display_phone": true,
+			"slug": null,
+			"can_change_contact": false,
+			"vk_work_send_vacancy": true,
+			"product_status_push_enabled": true,
+			"messages_push_enabled": true,
+			"favorite_push_enabled": true,
+			"subscription_push_enabled": true,
+			"important_sms_enabled": true,
+			"buyer_interest_notification_enabled": true
+		},
+		"short_name": null,
+		"share_link": "https:\/\/trk.mail.ru\/c\/h8w211?id=5a26d117f202635a003a0502",
+		"share_text": "\u042f \u0440\u0430\u0437\u043c\u0435\u0449\u0430\u044e \u043e\u0431\u044a\u044f\u0432\u043b\u0435\u043d\u0438\u044f \u043d\u0430 \u042e\u043b\u0435. \u041f\u043e\u0441\u043c\u043e\u0442\u0440\u0438\u0442\u0435, \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e, \u0432\u0430\u0441 \u0437\u0430\u0438\u043d\u0442\u0435\u0440\u0435\u0441\u0443\u044e\u0442 \u043c\u043e\u0438 \u043f\u0440\u0435\u0434\u043b\u043e\u0436\u0435\u043d\u0438\u044f. \u041e\u0431\u0440\u0430\u0449\u0430\u0442\u044c\u0441\u044f \u0441\u044e\u0434\u0430:",
+		"date_registered": 1512493335,
+		"is_blocked": false,
+		"is_shop": false,
+		"is_verified": false,
+		"common_channel": "cmn#5a26d117f202635a003a0502",
+		"experienced_seller": false,
+		"options": {
+			"payment_filter": true,
+			"auth_verify": true,
+			"daily_bonus_popup": true,
+			"discount_popup": false,
+			"baner_getcard_promo": "off",
+			"baner_enable_delivery": "install",
+			"chat_favorite_enabled": false,
+			"chat_favorite_popup_time": 0,
+			"info_blocks": {
+				"prod_list": true,
+				"profile": true,
+				"prod_page": true
+			},
+			"native_advertisment_enabled": true,
+			"product_limits_enabled": true,
+			"tariffs_enabled": true,
+			"is_vas_paid": false,
+			"seller_profile_enabled": false,
+			"bonus_popup_allowed": true
+		},
+		"store": null,
+		"verification": {
+			"type": 1,
+			"vk_friends_count": 95,
+			"required_type": 0
+		},
+		"actor_id": null,
+		"b2b_with_manager": false,
+		"blacklist_status": 0,
+		"blacklist_cnt": 0,
+		"followers_cnt": 0,
+		"following_cnt": 0,
+		"rating_mark": 5,
+		"rating_mark_cnt": 2,
+		"orders_cnt": 0,
+		"last_auth_date": 1732816699,
+		"prods_active_cnt": 0,
+		"prods_sold_cnt": 2,
+		"orders_seller_cnt": 0,
+		"orders_buyer_cnt": 0,
+		"contacts_active_cnt": 0,
+		"prods_arch_cnt": 2,
+		"first_name": "``````````````````````````````````````````",
+		"last_name": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+		"display_phone_num": "79069506557",
+		"is_phone_verified": true,
+		"email": "npp_board@mail.ru",
+		"date_email_confirm": 1599973140,
+		"account": {
+			"is_bonus_card_bind_applied": false,
+			"bonus_code": null,
+			"bonus_cnt": 1004,
+			"bonus_per_share": 15,
+			"is_bonus_verify_email_applied": true
+		},
+		"wallet": {
+			"payment_enabled": true,
+			"card_processing": false,
+			"card_type": null,
+			"card_number": null
+		},
+		"delivery": {
+			"first_name": "",
+			"last_name": "",
+			"middle_name": "",
+			"phone": null,
+			"address_street": "",
+			"address_room": "",
+			"address_building": "",
+			"city_id": "",
+			"city_name": "",
+			"point_id": null,
+			"country_name": "",
+			"zip_code": "",
+			"address_full": "",
+			"location": {
+				"description": null,
+				"latitude": 0,
+				"longitude": 0
+			}
+		},
+		"call": {
+			"any_call_enabled": true,
+			"system_call_enabled": true,
+			"p2p_call_enabled": true,
+			"call_enabled_from": "2019-12-01T00:00:00+00:00",
+			"call_enabled_to": "2019-12-01T00:00:00+00:00"
+		},
+		"token": "0289099ff41a548850b7309bf3cf4ef6",
+		"push_token": null,
+		"push_status": null,
+		"restrictions": [],
+		"promotions_paid_cnt": 0,
+		"payment_blocked": false,
+		"tariffs": [],
+		"geo_type": {
+			"id": 740,
+			"title": "\u0422\u043e\u043c\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
+		},
+		"rating_detailed": []
+	},
+	"status": 200,
+	"detail": "Ok",
+	"uri": ""
+}
